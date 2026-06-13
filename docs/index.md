@@ -1,16 +1,14 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-06-13 10:20*
+*生成时间：2026-06-13 12:38*
 
 ---
 
-根据 Jeff 的偏好，以下是 3-5 条精选内容，按其偏好排序：
-
-1. **Show HN: Skill for your agent to visualize your gbrain and Obsidian** ([https://github.com/vladignatyev/brain-map-skill](https://github.com/vladignatyev/brain-map-skill)) — 推荐理由：该内容与 AI 工具和知识管理相关，符合 Jeff 的偏好。
-2. **Ask HN: What Are You Working On?** ([https://news.ycombinator.com/item?id=48514461](https://news.ycombinator.com/item?id=48514461)) — 推荐理由：该内容与知识管理和社区讨论相关，可能引起 Jeff 的兴趣。
-3. **Shepherd's Dog: A Game by the Most Dangerous AI Model** ([https://koenvangilst.nl/lab/claude-fable-shepherds-dog](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)) — 推荐理由：该内容与 AI 工具和创新应用相关，可能引起 Jeff 的兴趣。
-
-其他内容不在 Jeff 的偏好范围内，因此不予推荐。
+- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 该文章对SpaceX的估值进行了深入分析和更新，提供了对公司价值的洞察。
+- [SpaceX is now a public company valued for its AI potential, so what comes next?](https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/) — 该文章讨论了SpaceX上市后其AI潜力对公司未来的影响和可能的发展方向。
+- [Why “reprogramming” is the buzziest approach to reversing aging right now](https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/) — 该文章介绍了“重编程”作为逆转衰老的最新方法，提供了对这一领域的洞察和理解。
+- [The no-human future](https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really) — 该文章探讨了加速主义哲学和其对未来社会的影响，提供了对这一思想流派的深入分析。
+- [An Ode to Restraint: Lessons from the Tim Cook Legacy](https://aswathdamodaran.blogspot.com/2026/05/an-ode-to-restraint-lessons-from-tim.html) — 该文章分析了Tim Cook的领导风格和遗产，提供了对企业管理和决策的宝贵见解。
 
 ---
-*由 rss-digest auto-generated*
+*by rss-digest*
