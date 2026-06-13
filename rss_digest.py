@@ -33,10 +33,12 @@ def fetch():
 def summarize(items):
     if not items:
         return "暂无内容。"
-    prompt = f"""你是精品信息编辑。从以下 {len(items)} 条内容中精选 3-5 条，按价值排序。
-每条附 1 句推荐理由。输出 Markdown（含标题+链接+理由）。时间：{datetime.now().strftime('%Y-%m-%d %H:%M')}
+    prompt = f"""从以下{len(items)}条精选3-5条，按Jeff(投资者/知识管理者)偏好排序：
+①个股/投资/宏观 ②AI工具/知识管理 ③深度思想/长文
+剔除：娱乐、纯产品发布。每项：- [标题](链接) — 推荐理由
+时间：{datetime.now().strftime('%Y-%m-%d %H:%M')}
 
-内容：{json.dumps(items, ensure_ascii=False, indent=2)[:6000]}"""
+{json.dumps(items, ensure_ascii=False, indent=2)[:6000]}"""
     try:
         r = httpx.post(
             f"{API_BASE}/chat/completions",
