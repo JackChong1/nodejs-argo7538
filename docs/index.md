@@ -1,15 +1,16 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-06-13 03:34*
+*生成时间：2026-06-13 10:20*
 
 ---
 
-### 精选内容
-1. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access): 该内容因其高点赞数（1175）和评论数（746）而被推荐，是当日热点新闻。
-2. [Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2): 该内容因其较高的点赞数（227）和一定数量的评论（53）而被推荐，具有较高的信息价值。
-3. [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9): 该内容因其中等点赞数（105）和评论数（23）而被推荐，提供了相关事件的最新状态信息。
-4. [As a result of a US Government directive, we are suspending access to Fable 5](https://twitter.com/ClaudeDevs/status/2065597942602531163): 该内容因其较低但仍有一定数量的点赞数（60）和评论数（15）而被推荐，提供了事件的原始信息来源。
-5. [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix): 该内容因其较低的点赞数和评论数而未被优先推荐，但仍提供了有价值的信息关于AMD的安全漏洞处理情况。
+根据 Jeff 的偏好，以下是 3-5 条精选内容，按其偏好排序：
+
+1. **Show HN: Skill for your agent to visualize your gbrain and Obsidian** ([https://github.com/vladignatyev/brain-map-skill](https://github.com/vladignatyev/brain-map-skill)) — 推荐理由：该内容与 AI 工具和知识管理相关，符合 Jeff 的偏好。
+2. **Ask HN: What Are You Working On?** ([https://news.ycombinator.com/item?id=48514461](https://news.ycombinator.com/item?id=48514461)) — 推荐理由：该内容与知识管理和社区讨论相关，可能引起 Jeff 的兴趣。
+3. **Shepherd's Dog: A Game by the Most Dangerous AI Model** ([https://koenvangilst.nl/lab/claude-fable-shepherds-dog](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)) — 推荐理由：该内容与 AI 工具和创新应用相关，可能引起 Jeff 的兴趣。
+
+其他内容不在 Jeff 的偏好范围内，因此不予推荐。
 
 ---
 *由 rss-digest auto-generated*
