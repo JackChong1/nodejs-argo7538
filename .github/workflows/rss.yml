@@ -1,7 +1,7 @@
 name: RSS Digest
 on:
   schedule:
-    - cron: '0 6,18 * * *'   # 06:00 & 18:00 UTC
+    - cron: '0 0,12 * * *'   # 08:00 & 20:00 北京时间 (00:00/12:00 UTC)
   workflow_dispatch:
 
 permissions:
