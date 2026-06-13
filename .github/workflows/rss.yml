@@ -4,6 +4,9 @@ on:
     - cron: '0 6,18 * * *'   # 06:00 & 18:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -19,4 +22,5 @@ jobs:
           git config user.name "rss-bot"
           git config user.email "bot@localhost"
           git add docs/index.md
-          git diff --cached --quiet || git commit -m "digest $(date +%Y-%m-%d)" && git push
+          git diff --cached --quiet || git commit -m "digest $(date +%Y-%m-%d)"
+          git push
