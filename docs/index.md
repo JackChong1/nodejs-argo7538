@@ -1,12 +1,13 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-06-17 03:56*
+*生成时间：2026-06-17 15:23*
 
 ---
 
-- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 该文章对SpaceX的估值进行了深入分析，提供了对该公司发展的宝贵见解。
-- [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/) — 本文介绍了Wolfram Language和Mathematica的最新版本，包含了人工智能助手、符号音乐等新功能，对科技和教育领域有重要影响。
-- [Exclusive eBook: How AI is becoming the next military advisor](https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/) — 该电子书探讨了人工智能在军事领域的应用，揭示了AI如何成为军事决策的重要辅助工具，具有战略意义和前瞻性。
+- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 提供了对SpaceX估值的深入分析和更新，具有实质性的洞见和投资价值。
+- [An Ode to Restraint: Lessons from the Tim Cook Legacy](https://aswathdamodaran.blogspot.com/2026/05/an-ode-to-restraint-lessons-from-tim.html) — 从Tim Cook的领导风格中汲取经验，讨论了克制和长期战略的重要性，对认知和领导力有启发。
+- [Hacking the atmosphere: Geoengineering gets a reality check](https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/) — 对气候工程技术进行了现实性评估，讨论了其挑战和潜在影响，属于重要的科技趋势和事件追踪。
+- [Pentagon boasts of using AI to write reports mandated by Congress](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/) — 展示了人工智能在政府报告中的应用，具有科技新闻和趋势追踪价值。
 
 ---
 *by rss-digest*
