@@ -1,13 +1,13 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-06-18 15:19*
+*生成时间：2026-06-19 04:06*
 
 ---
 
-- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 提供了对SpaceX估值的深入分析和更新，具有实质性的洞见和数据支持。
-- [An Ode to Restraint: Lessons from the Tim Cook Legacy](https://aswathdamodaran.blogspot.com/2026/05/an-ode-to-restraint-lessons-from-tim.html) — 从Tim Cook的领导经验中汲取教训，讨论了克制和战略决策在商业中的重要性。
-- [The search for dark matter has been blown wide open](https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/) — 讨论了暗物质搜索的最新进展和挑战，代表了科学研究领域的重要趋势和事件。
-- [Geoengineering still faces major practical challenges](https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/) — 指出地理工程技术在应对气候变化方面仍面临着重大实践挑战，具有重要的环境和科技启示。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文对SpaceX、OpenAI和Anthropic的潜在上市和对投资的影响进行了深入分析。
+- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文更新了对SpaceX的估值分析，提供了对该公司未来发展的深入见解。
+- [The search for dark matter has been blown wide open](https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/) — 本文介绍了暗物质搜索的最新进展和挑战，揭示了这一领域的重要性和复杂性。
+- [Geoengineering still faces major practical challenges](https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/) — 本文讨论了地球工程技术的挑战和局限性，强调了这一领域的研究和开发的必要性。
 
 ---
 *by rss-digest*
