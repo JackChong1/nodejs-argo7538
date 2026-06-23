@@ -1,13 +1,12 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-06-22 16:52*
+*生成时间：2026-06-23 02:58*
 
 ---
 
-- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文深入分析了SpaceX、OpenAI和Anthropic可能被纳入S&P 500指数的影响和投资后果，提供了有价值的投资洞察。
-- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文对SpaceX的估值进行了更新分析，考虑了最新的招股书信息，为投资者提供了更准确的估值参考。
-- [An Ode to Restraint: Lessons from the Tim Cook Legacy](https://aswathdamodaran.blogspot.com/2026/05/an-ode-to-restraint-lessons-from-tim.html) — 本文从Tim Cook的领导风格中汲取经验，强调了克制和长期战略的重要性，对企业领导和投资者都有启发意义。
-- [Inside the world’s deepest and longest subsea road tunnel](https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/) — 本文介绍了世界上最深、最长的海底隧道，展现了工程技术的进步和挑战，对科技和基础设施发展有重要参考价值。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文对SpaceX、OpenAI和Anthropic的上市和投资影响进行了深入分析，具有重要的实质洞见和投资启发。
+- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文对SpaceX的估值进行了更新和分析，提供了对该公司发展和投资价值的重要见解。
+- [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) — 本文讨论了Anthropic与政府的最新冲突，指出了三个重要的观察点，具有较高的实用启发和趋势追踪价值。
 
 ---
 *by rss-digest*
