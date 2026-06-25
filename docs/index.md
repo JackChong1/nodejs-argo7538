@@ -1,12 +1,12 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-06-25 03:22*
+*生成时间：2026-06-25 14:28*
 
 ---
 
-- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文分析了SpaceX、OpenAI和Anthropic可能被纳入S&P 500指数的影响和投资后果，提供了对这些公司的估值和市场影响的深入分析。
-- [OpenAI and Broadcom announce chip designed for LLM inference at scale](https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/) — 本文介绍了OpenAI和Broadcom合作设计的用于大规模LLM推理的芯片，这是人工智能技术发展的一个重要进展。
-- [Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections](https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/) — 本文报道了Stripe、Anthropic和OpenAI联合支持的预防呼吸道感染的努力，这是一个医疗技术和人工智能应用的重要发展。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文深入分析了SpaceX、OpenAI和Anthropic可能被纳入S&P 500指数的影响和投资后果，提供了有价值的投资洞察。
+- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文对SpaceX的估值进行了更新分析，考虑了最新的招股书信息，具有较强的实质性和参考价值。
+- [IBM has unveiled chip technology that could help extend Moore’s Law another decade](https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/) — 本文介绍了IBM最新的芯片技术，这可能将摩尔定律的有效期延长十年，具有重要的科技和投资启发意义。
 
 ---
 *by rss-digest*
