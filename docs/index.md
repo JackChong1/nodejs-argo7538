@@ -1,13 +1,12 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-06-30 03:29*
+*生成时间：2026-06-30 14:14*
 
 ---
 
-- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文深入分析了SpaceX、OpenAI和Anthropic可能被纳入S&P 500指数的影响和投资后果，提供了对这些公司的价值评估和市场趋势的洞察。
-- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文对SpaceX的估值进行了更新，基于最新的招股书信息，提供了对该公司财务状况和市场前景的详细分析。
-- [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/) — 本文介绍了韩国计划在记忆芯片生产和人形机器人领域投资1万亿美元，旨在成为物理人工智能和商业人形机器人的领导者，揭示了人工智能和科技领域的重要趋势和投资动向。
-- [Agent confidence on the technical frontier](https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/) — 本文讨论了企业在人工智能领域的投资热潮和技术前沿的挑战，提供了对人工智能应用和发展的深入分析和见解。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文深入分析了SpaceX、OpenAI和Anthropic可能被纳入S&P 500指数的影响和投资后果，提供了有价值的投资洞察。
+- [Agriculture is ready for AI, but its data isn’t](https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/) — 本文指出农业领域虽然准备好采用AI技术，但其数据基础还不完善，需要进一步改进，这对农业技术发展具有重要参考价值。
+- [Building tech in the world’s secret R&D hub](https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/) — 本文介绍了一个秘密的研发中心，汇聚了众多顶级科技公司，如Apple、Anthropic、Google等，揭示了该中心在全球科技发展中的重要地位。
 
 ---
 *by rss-digest*
