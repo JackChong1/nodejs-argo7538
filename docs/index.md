@@ -1,14 +1,14 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-07-09 02:46*
+*生成时间：2026-07-09 14:54*
 
 ---
 
-- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文对SpaceX、OpenAI和Anthropic的上市和投资影响进行了深入分析，提供了有价值的投资洞察。
-- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文更新了对SpaceX的估值分析，为读者提供了对该公司发展的最新见解。
-- [An Ode to Restraint: Lessons from the Tim Cook Legacy](https://aswathdamodaran.blogspot.com/2026/05/an-ode-to-restraint-lessons-from-tim.html) — 本文从Tim Cook的领导风格中汲取经验，强调了克制在商业决策中的重要性，具有较强的启发性。
-- [Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/) — 本文揭示了AI作弊在教育领域的影响，引发了人们对AI伦理和教育诚信的思考。
-- [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/) — 本文讨论了AI平台的崛起，关注了AI技术在各个领域的应用和发展趋势。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文对SpaceX、OpenAI和Anthropic的S&P 500纳入问题及其对投资的影响进行了深入分析。
+- [Payloads used to dictate the terms of launch. That's finally changing.](https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/) — 本文讨论了卫星技术和火箭开发的最新趋势，指出传统的卫星和火箭的关系正在发生变化。
+- [Four nuclear reactors hit a big milestone in the US](https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/) — 本文报道了美国四座核反应堆达到一个重要里程碑，标志着核能领域的进步。
+- [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/) — 本文介绍了EmTech AI 2026会议的主题——AI平台的崛起，探讨了AI技术的最新发展和应用。
+- [How to offset your brain](https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases) — 本文讨论了如何通过正念等方法来克服认知偏见，提供了有价值的认知和心理学见解。
 
 ---
 *by rss-digest*
