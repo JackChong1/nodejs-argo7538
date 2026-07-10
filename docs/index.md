@@ -1,14 +1,13 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-07-09 14:54*
+*生成时间：2026-07-10 02:49*
 
 ---
 
-- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文对SpaceX、OpenAI和Anthropic的S&P 500纳入问题及其对投资的影响进行了深入分析。
-- [Payloads used to dictate the terms of launch. That's finally changing.](https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/) — 本文讨论了卫星技术和火箭开发的最新趋势，指出传统的卫星和火箭的关系正在发生变化。
-- [Four nuclear reactors hit a big milestone in the US](https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/) — 本文报道了美国四座核反应堆达到一个重要里程碑，标志着核能领域的进步。
-- [EmTech AI 2026: The Rise of the AI Platform](https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/) — 本文介绍了EmTech AI 2026会议的主题——AI平台的崛起，探讨了AI技术的最新发展和应用。
-- [How to offset your brain](https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases) — 本文讨论了如何通过正念等方法来克服认知偏见，提供了有价值的认知和心理学见解。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文对SpaceX、OpenAI和Anthropic的上市和投资影响进行了深入分析，提供了有价值的投资洞察。
+- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文更新了对SpaceX的估值分析，提供了最新的数据和见解，对投资者和科技行业观察者具有重要参考价值。
+- [OpenAI wants its new tool to do your work for you and with you](https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/) — 本文介绍了OpenAI的新工具，能够独立完成工作流程，具有较强的实用性和创新性，值得关注和追踪。
+- [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) — 本文揭示了Anthropic在人工智能领域的最新发现，能够让人更深入地理解大语言模型的工作原理，具有重要的科学价值和前瞻性。
 
 ---
 *by rss-digest*
