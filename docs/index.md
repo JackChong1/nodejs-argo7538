@@ -1,13 +1,13 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-07-13 02:34*
+*生成时间：2026-07-13 14:29*
 
 ---
 
-- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文对SpaceX、OpenAI和Anthropic等公司的上市和投资影响进行了深入分析，具有实质性的洞见和启发。
-- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文更新了对SpaceX的估值分析，提供了最新的数据和见解，对投资者具有参考价值。
-- [An Ode to Restraint: Lessons from the Tim Cook Legacy](https://aswathdamodaran.blogspot.com/2026/05/an-ode-to-restraint-lessons-from-tim.html) — 本文从Tim Cook的领导风格中提取了宝贵的经验，强调了克制和长期战略的重要性，对企业管理和投资者具有启发。
-- [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/) — 本文揭示了Anthropic公司在AI研究领域的最新进展，发现了大语言模型内部的隐藏空间，具有重要的技术和认知启发。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文分析了SpaceX、OpenAI和Anthropic等公司可能被纳入S&P 500指数的影响和投资后果，提供了有价值的投资洞察。
+- [Revisiting the SpaceX Valuation: A Post-Prospectus Update!](https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html) — 本文对SpaceX的估值进行了更新分析，提供了对该公司价值的新见解和投资建议。
+- [The Download: a donor conception cap and world models for AI](https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/) — 本文讨论了人工智能和生物技术的最新发展，包括捐精的限制和AI的世界模型，提供了对科技趋势的有价值的分析。 
+- [Lore of the rings](https://aeon.co/essays/how-to-decode-the-archive-inside-ancient-tree-rings) — 本文探讨了古树木年轮中隐藏的信息和其在环境研究中的应用，提供了对自然世界的独特视角。
 
 ---
 *by rss-digest*
