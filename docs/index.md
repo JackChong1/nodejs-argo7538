@@ -1,13 +1,14 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-08-05 14:02*
+*生成时间：2026-08-06 02:22*
 
 ---
 
-- [Information Timing and Release: The Gaming of Guidance!](https://aswathdamodaran.blogspot.com/2026/07/information-timing-and-release-gaming.html) — 本文提供了对信息披露时机和内容的深入分析，具有实质性的洞见和启发。
-- [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — 本文对国家风险进行了全面分析，包括驱动因素、衡量标准和投资影响，具有重要的参考价值。
-- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文讨论了SpaceX、OpenAI和Anthropic等公司可能被纳入S&P 500指数的影响和投资后果，具有较强的实用启发意义。
-- [Towards an AI for Africa](https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics) — 本文探讨了为非洲开发人工智能的可能性和伦理基础，具有较高的思想价值和趋势追踪意义。
+- [Information Timing and Release: The Gaming of Guidance!](https://aswathdamodaran.blogspot.com/2026/07/information-timing-and-release-gaming.html) — 本文对信息发布的时机和方式进行了深入分析，揭示了公司如何通过操控信息发布来影响市场预期。
+- [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — 本文全面探讨了国家风险的驱动因素、衡量指标以及对投资的影响，提供了对全球经济趋势的深刻洞察。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文讨论了SpaceX、OpenAI和Anthropic等科技巨头可能被纳入S&P 500指数的影响，分析了这将对投资者和市场产生的深远影响。
+- [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto) — 本文探讨了大型语言模型（LLMs）对对称加密算法的影响，指出LLMs不会破坏对称加密的安全性。
+- [Thousands of servers can be backdoored by exploiting buggy motherboard controllers](https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/) — 本文揭露了主板控制器的漏洞可能导致成千上万的服务器被黑客入侵，强调了网络安全的重要性。
 
 ---
 *by rss-digest*
