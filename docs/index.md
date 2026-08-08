@@ -1,14 +1,14 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-08-08 01:21*
+*生成时间：2026-08-08 12:41*
 
 ---
 
-- [Information Timing and Release: The Gaming of Guidance!](https://aswathdamodaran.blogspot.com/2026/07/information-timing-and-release-gaming.html) — 本文对信息发布的时机和方式进行了深入的分析，提供了对投资和公司决策的有价值见解。
-- [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — 本文全面讨论了国家风险的驱动因素、衡量方法以及对投资的影响，具有重要的参考价值。
-- [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) — 本文提出了一个重要的问题，即是否应该像对待危险动物的主人一样对待AI实验室，引发了关于AI安全和责任的讨论。
-- [Judge rules Meta caused "public nuisance" and must fund mental health treatment](https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/) — 本文报道了Meta被判因公共危害必须为心理健康治疗提供资金的事件，揭示了科技公司对社会的影响和责任。
-- [The Download: a censorship conspiracy theory and the first virus created by AI](https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/) — 本文讨论了有关审查的阴谋论以及由AI创造的首个病毒，涉及科技、安全和社会多个方面。
+- [Information Timing and Release: The Gaming of Guidance!](https://aswathdamodaran.blogspot.com/2026/07/information-timing-and-release-gaming.html) — 本文深入探讨了信息披露的时机和方式对市场的影响，具有实质性的洞察和分析。
+- [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — 本文系统地讨论了国家风险的驱动因素、衡量方法以及对投资的影响，具有很强的参考价值。
+- [SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!](https://aswathdamodaran.blogspot.com/2026/06/indexology-index-mechanics-and.html) — 本文分析了SpaceX、OpenAI和Anthropic等公司可能被纳入S&P 500指数的影响和投资后果，提供了对科技投资趋势的洞察。
+- [DeepMind’s hurricane breakthrough has surprised weather scientists](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/) — 本文介绍了DeepMind在飓风预测方面的突破，这一技术进步对气象学和相关领域具有重要意义。
+- [The first self-driving vehicle on Mars has proven to be a smashing success](https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/) — 本文报道了火星上首辆自驾驶车辆的成功，这一成就标志着太空探索技术的重大进步。
 
 ---
 *by rss-digest*
