@@ -1,13 +1,13 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-08-14 01:44*
+*生成时间：2026-08-14 13:00*
 
 ---
 
-- [The Situational Awareness Blow-up: The Collateral Damage from Investing Conviction!](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — 提供了对投资决策中情境意识的重要性和其对投资结果的影响的深入分析。
-- [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/) — 讨论了在量子计算时代，构建后量子密码学的必要性和挑战，具有重要的技术和安全启示。
-- [Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy](https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/) — 探讨了“审查工业复合体”这一概念对美国政策的影响，涉及政府、科技和研究集团在网络言论管制中的角色，具有重要的社会和政治意义。
-- [Private security firms will soon be allowed to hack overseas cybercriminals](https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/) — 报道了白宫允许私营安保公司对海外网络犯罪者进行黑客攻击的政策，这一事件对网络安全和国际关系有着重要的影响。
+- [The Situational Awareness Blow-up: The Collateral Damage from Investing Conviction!](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — 本文提供了对投资决策中情境意识的深刻分析，揭示了投资者在决策过程中可能忽视的重要因素。
+- [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — 本文全面讨论了国家风险的驱动因素、衡量方法以及对投资的影响，为投资者提供了宝贵的参考。
+- [This scientist is helping build a missing map of childhood](https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/) — 本文介绍了Deanne Taylor的工作，她致力于绘制儿童基因表达的完整图谱，这项研究有望深化我们对儿童成长和发育的理解。
+- [Job titles of the future: Space travel agent](https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/) — 本文探讨了未来可能出现的新职业——太空旅行代理人，反映了太空旅游业的发展趋势和潜在的商业机会。
 
 ---
 *by rss-digest*
