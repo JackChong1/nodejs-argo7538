@@ -1,13 +1,13 @@
 # 📡 RSS 每日精选
 
-*生成时间：2026-08-13 13:03*
+*生成时间：2026-08-14 01:44*
 
 ---
 
-- [The Situational Awareness Blow-up: The Collateral Damage from Investing Conviction!](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — 本文对投资中的情况意识进行了深入分析，指出其对投资决策的重要影响。
-- [Country Risk: Drivers, Measures and Investment Implications - The 2026 Edition!](https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html) — 本文更新了对国家风险的评估，包括其驱动因素、衡量方法和对投资的影响，具有较强的实用价值。
-- [What’s behind this summer’s heat, and why 2027 could be worse](https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/) — 本文分析了当前夏季的高温原因，并预测了2027年的可能趋势，具有重要的参考价值。
-- [The web’s newest weapon against AI scrapers is a font](https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/) — 本文介绍了一种新型字体技术，用于防止AI爬虫的数据抓取，具有较强的技术创新性和实用价值。
+- [The Situational Awareness Blow-up: The Collateral Damage from Investing Conviction!](https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html) — 提供了对投资决策中情境意识的重要性和其对投资结果的影响的深入分析。
+- [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/) — 讨论了在量子计算时代，构建后量子密码学的必要性和挑战，具有重要的技术和安全启示。
+- [Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy](https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/) — 探讨了“审查工业复合体”这一概念对美国政策的影响，涉及政府、科技和研究集团在网络言论管制中的角色，具有重要的社会和政治意义。
+- [Private security firms will soon be allowed to hack overseas cybercriminals](https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/) — 报道了白宫允许私营安保公司对海外网络犯罪者进行黑客攻击的政策，这一事件对网络安全和国际关系有着重要的影响。
 
 ---
 *by rss-digest*
